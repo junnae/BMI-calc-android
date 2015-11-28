@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMIcalculator</string>
+    <string name="weightLabel">Your weight</string>
+    <string name="heightLabel">Your height</string>
+    <string name="calculateBMIbtn">Calculate</string>
+    <string name="results"></string>
+    <string name="quiteUnderweight">You are quite underweight</string>
+    <string name="underweight">You are underweight</string>
+    <string name="normal">Your weight is normal</string>
+    <string name="overweight">You are a little chubby</string>
+    <string name="obese">You are a obese</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

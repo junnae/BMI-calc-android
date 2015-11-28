@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMIcalculator</string>
+    <string name="weightLabel">Din vekt</string>
+    <string name="heightLabel">Din høyde</string>
+    <string name="calculateBMIbtn">Regn ut</string>
+    <string name="results"></string>
+    <string name="quiteUnderweight">Du er særdeles undervektig</string>
+    <string name="underweight">Du er undervektig</string>
+    <string name="normal">Din vekt er normal</string>
+    <string name="overweight">Du er lubben</string>
+    <string name="obese">Du er syklig overvektig</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>
